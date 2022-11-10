@@ -1,0 +1,42 @@
+
+img{
+	width:250px;
+	height:250px;
+	
+}
+
+img#foto1{
+	
+}
+img#foto2{
+	top:105px;
+	left:105px;
+	position:relative;
+}
+img#foto3{
+	top:210px;
+	left:210px;
+	position:relative;
+
+}
+img#foto4{
+	top:315px;
+	left:315px;
+	position:relative;
+
+
+}
+img#foto5{
+	top:315px;
+	left:420x;
+	position:relative;
+
+
+}
+img#foto6{
+	top:210px;
+	left:705x;
+	position:relative;
+	
+
+}
